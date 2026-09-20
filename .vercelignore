@@ -1,0 +1,7 @@
+data/*.pkl
+tests/
+.pytest_cache/
+.vscode/
+temp_archive.zip
+extracted/
+.git
